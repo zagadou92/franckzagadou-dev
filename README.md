@@ -2,7 +2,7 @@
 DAGBAME FRANCK ZAGADOU
 JUNIOR SOFTWARE DEVELOPER
 Côte d'Ivoire | +225 05 84 21 72 06 | dzagadou@byupathway.edu
-://linkedin.com | ://github.com
+https://www.linkedin.com/in/dagbame-franck-zagadou-969b27211/ | ://github.com
 
 PROFESSIONAL SUMMARY
 Detail-oriented Junior Software Developer with a strong analytical background in industrial operations, troubleshooting, and data management. Experienced in building full-stack web applications with C#, Blazor, TypeScript, Next.js, and Python, writing clean and maintainable code, and collaborating within cross-functional teams. Eager to leverage problem-solving skills and technical training to deliver reliable software solutions.
